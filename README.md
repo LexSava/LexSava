@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning Front-end and lots of stuff that goes with it (like JavaScript, React, TypeScript, Node.js etc)
 
+Currently looking for work as a Front-end Developer.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LexSava&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexSava&layout=compact&theme=gruvbox&show_icons=true)
