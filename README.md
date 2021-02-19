@@ -16,6 +16,9 @@ Currently looking for work as a Front-end Developer.
     
 - [COVID-19 Dashboard](https://lexsava.github.io/covid-dashboard/covid-dashboard/dist/) - application for tracking the spread of COVID-19 in the world and in selected countries. (teamwork)
     * Repository: https://github.com/LexSava/covid-dashboard.
+    
+- [Shelter](https://lexsava.github.io/shelter/shelter/pages/main/) - An adaptive two-page website for a fictional pet shelter.
+    
 ### Contacts
 
 - GitHub: @LexSava
