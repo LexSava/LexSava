@@ -16,6 +16,12 @@ Currently looking for work as a Front-end Developer.
     
 - [COVID-19 Dashboard](https://lexsava.github.io/covid-dashboard/covid-dashboard/dist/) - application for tracking the spread of COVID-19 in the world and in selected countries. (teamwork)
     * Repository: https://github.com/LexSava/covid-dashboard.
+### Contacts
+
+- GitHub: @LexSava
+- Phone: +375-25-755-24-61
+- Telegram: @Lex_Sava
+- Email: lexsava@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LexSava&show_icons=true&theme=gruvbox)
