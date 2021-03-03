@@ -10,6 +10,8 @@ Currently looking for work as a Front-end Developer.
 
 - [RSS RPG GAME](https://lexsava.github.io/rsclone/game/dist/) - this is a result of team work, game in native JavaScript.
     * Pull Request: https://github.com/LexSava/rsclone/pull/13
+
+- [clone 2048 GAME](https://lexsava.github.io/react-game/build/) - clone of the game 2048 on React.
     
 - [ENGLISH for kids](https://lexsava.github.io/english-for-kids/english-for-kids/src) - english learning game for kids.
     * Repository: https://github.com/LexSava/english-for-kids.
