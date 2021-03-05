@@ -2,9 +2,13 @@
 
 ### I am Alexey from Gomel Belarus.
 
-🌱 I’m currently learning Front-end and lots of stuff that goes with it (like JavaScript, React, TypeScript, Node.js etc)
+🌱 I’m currently learning Front-end and lots of stuff that goes with it (like JavaScript, React, TypeScript, Node.js etc).
 
 Currently looking for work as a Front-end Developer.
+
+- [My resume on GitHub](https://lexsava.github.io/rsschool-cv/)
+
+- [My resume on rabota.by](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139)
 
 🔭 Check out some of my pet and study projects:
 
