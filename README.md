@@ -12,6 +12,18 @@ Currently looking for work as a Front-end Developer.
 
 🔭 Check out some of my pet and study projects:
 
+- [RS Lang](https://rslang-team108.netlify.app/) 
+    * Student project: Application for learning English. With dictionary, mini-games and statistics.
+    * Position: Front-end developer, Lead developer, designer.
+    * Environment: TypeScript, React, React Hooks, React Router, Sass, bootstrap.
+    * Repository: https://github.com/LexSava/rslang
+    
+- [Travel App](https://travelapp-team108.netlify.app/) 
+    * Student project: Travel app. With a description of the sights of the countries.
+    * Position: Front-end developer, Lead developer, designer.
+    * Environment: TypeScript, React, React Hooks, React Router, Sass, bootstrap.
+    * Repository: https://github.com/LexSava/travel-app
+    
 - [RSS RPG GAME](https://lexsava.github.io/rsclone/game/dist/) - this is a result of team work, game in native JavaScript.
     * Pull Request: https://github.com/LexSava/rsclone/pull/13
 
