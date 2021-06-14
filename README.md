@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### I am Alexey from Gomel Belarus.
+### I'm Alexey
+### I'm from Gomel.
 
 🌱 I’m currently learning Front-end and lots of stuff that goes with it (like JavaScript, React, TypeScript, Node.js etc).
 
