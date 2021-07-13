@@ -1,17 +1,32 @@
 ## Hi there 👋
 
-### I'm Alexey
-### I'm from Gomel.
+#### I'm Alexey.
+#### I'm from Belarus.
 
-🌱 I’m currently learning Front-end and lots of stuff that goes with it (like JavaScript, React, TypeScript, Node.js etc).
+### Currently looking for work as a Front-end Developer.
 
-Currently looking for work as a Front-end Developer.
-
-- [My resume on GitHub](https://lexsava.github.io/rsschool-cv/)
+- [My resume on GitHub](https://lexsava.github.io/CV/)
 
 - [My resume on rabota.by](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139)
 
-🔭 Check out some of my pet and study projects:
+#### Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)  
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)  
+![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MaterialUI)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)  
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+
+#### 🔭 Check out some of my pet and study projects:
 
 - [RS Lang](https://rslang-team108.netlify.app/) 
     * Student project: Application for learning English. With dictionary, mini-games and statistics.
@@ -38,7 +53,7 @@ Currently looking for work as a Front-end Developer.
     
 - [Shelter](https://lexsava.github.io/shelter/shelter/pages/main/) - An adaptive two-page website for a fictional pet shelter.
     
-### Contacts
+### Contacts:
 
 - GitHub: @LexSava
 - Phone: +375-25-755-24-61
