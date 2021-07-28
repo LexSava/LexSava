@@ -34,7 +34,7 @@
     * Environment: TypeScript, React, React Hooks, React Router, Sass, bootstrap.
     * Repository: https://github.com/LexSava/rslang
     
-- [Travel App](https://travelapp-team108.netlify.app/) 
+- [Travel App](https://travelapp.tk/) 
     * Student project: Travel app. With a description of the sights of the countries.
     * Position: Front-end developer, Lead developer, designer.
     * Environment: TypeScript, React, React Hooks, React Router, Sass, bootstrap.
