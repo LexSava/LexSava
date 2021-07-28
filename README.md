@@ -28,7 +28,7 @@
 
 #### 🔭 Check out some of my pet and study projects:
 
-- [RS Lang](https://rslang-team108.netlify.app/) 
+- [RS Lang](https://rslang.tk/) 
     * Student project: Application for learning English. With dictionary, mini-games and statistics.
     * Position: Front-end developer, Lead developer, designer.
     * Environment: TypeScript, React, React Hooks, React Router, Sass, bootstrap.
