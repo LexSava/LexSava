@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-#### I'm Alexey.
-#### I'm from Belarus.
+####  I'm Alexey and I'm from the Republic of Belarus.
 
-### Currently looking for work as a Front-end Developer.
+### I'm a Front-end Developer.
 
 - [My resume on GitHub](https://lexsava.github.io/CV/)
 
@@ -14,17 +13,21 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)  
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)    
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
-![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)  
+![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)    
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MaterialUI)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)  
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)    
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 
 #### 🔭 Check out some of my pet and study projects:
 
@@ -57,8 +60,10 @@
 
 - GitHub: @LexSava
 - Phone: +375-25-755-24-61
-- Telegram: @Lex_Sava
 - Email: lexsava@gmail.com
+- Telegram: @Lex_Sava
+- Linkedin: [https://www.linkedin.com/in/lexsava/](https://www.linkedin.com/in/lexsava/) 
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LexSava&show_icons=true&theme=gruvbox)
