@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-####  I'm Alexey and I'm from the Republic of Belarus.
+####  I'm Alexei and I'm from Belarus.
 
-### I'm a Front-end Developer.
-
+### Front-end Developer.
+<!-- 
 - [My resume on GitHub](https://lexsava.github.io/CV/)
 
-- [My resume on rabota.by](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139)
+- [My resume on rabota.by](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139) -->
 
 #### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
@@ -16,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)    
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular)
 ![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js)
 ![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
@@ -31,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 
-#### 🔭 Check out some of my pet and study projects:
+<!-- #### 🔭 Check out some of my pet and study projects:
 
 - [RS Lang](https://rslang.tk/) 
     * Student project: Application for learning English. With dictionary, mini-games and statistics.
@@ -57,7 +58,7 @@
     * Repository: https://github.com/LexSava/covid-dashboard.
     
 - [Shelter](https://lexsava.github.io/shelter/shelter/pages/main/) - An adaptive two-page website for a fictional pet shelter.
-    
+     -->
 ### Contacts:
 
 - GitHub: @LexSava
