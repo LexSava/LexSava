@@ -62,7 +62,7 @@
 ### Contacts:
 
 - GitHub: @LexSava
-- Phone: +375-25-755-24-61
+- Phone: +48-518304085
 - Email: lexsava@gmail.com
 - Telegram: @Lex_Sava
 - Linkedin: [https://www.linkedin.com/in/lexsava/](https://www.linkedin.com/in/lexsava/) 
