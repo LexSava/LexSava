@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-####  I'm Alexei and I'm from Belarus.
+####  I'm Alexei.
 
 ### Front-end Developer.
 <!-- 
